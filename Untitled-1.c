@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("hello word");
+   int a;
+   a= 10;
+   printf("%d", a);
 }
